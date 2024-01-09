@@ -5,6 +5,7 @@ They taught me data exploration, data visualization, supervised/unsupervised lea
 # 1) Mobile Price Classification
 The objective is to identify the mobile phone price range by training a suitable classification algorithm.
 Data exploration, visualization, modeling and performance metrics are evaluated.
+In addition, model scaling is performed to explore whether it affects the performance of the model.
 
 # 2) Wine Clustering
 The objective is to familiarized with K-Means clustering and its relevant performance metrics in comparison to supervised learning.
